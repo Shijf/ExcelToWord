@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "version2", "version2\version2.csproj", "{4F9968EA-57F6-476E-A496-6AFC2914116B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExcelToWord", "ExcelToWord\ExcelToWord.vdproj", "{780A20E0-8F16-4416-ABFD-4A0656E01941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9968EA-57F6-476E-A496-6AFC2914116B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9968EA-57F6-476E-A496-6AFC2914116B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9968EA-57F6-476E-A496-6AFC2914116B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9968EA-57F6-476E-A496-6AFC2914116B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780A20E0-8F16-4416-ABFD-4A0656E01941}.Debug|Any CPU.ActiveCfg = Debug
+		{780A20E0-8F16-4416-ABFD-4A0656E01941}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44466A3C-00BD-4ADA-A09F-5467036CEB41}
+	EndGlobalSection
+EndGlobal
